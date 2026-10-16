@@ -1,0 +1,1 @@
+ // printf("Kitx`ob topildi!\n");
